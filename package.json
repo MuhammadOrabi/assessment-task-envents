@@ -11,6 +11,7 @@
     "express": "~4.16.0",
     "http": "0.0.0",
     "nodemon": "^1.18.4",
+    "rootpath": "^0.1.2",
     "socket.io": "^2.1.1"
   }
 }
